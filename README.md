@@ -1,5 +1,8 @@
 
-Authentification sur google cloud:
+Configuration:
+
+    pip install --upgrade google-cloud-pubsub
+    pip install pandas-gbq
 
 Dans un Powershell:
 
